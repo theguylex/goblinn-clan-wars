@@ -12,7 +12,7 @@ The page exhibits a styled dropdown list when the cursor hover over the navlinks
 
 *Style the dropdown
 
-*Ensure the dropdow displays on-hover over the navlinks
+*Ensure the dropdown displays on-hover over the navlinks
 
 *Implement responsiveness using media queries
 
